@@ -37,7 +37,9 @@ This results in **more reliable and accurate answers**.
 The system follows the graph below:
 
 
-::contentReference[oaicite:0]{index=0}
+
+![Adaptive RAG Architecture](correctiveRag.png)
+
 
 
 ### Execution Flow
