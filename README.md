@@ -58,8 +58,7 @@ __start__
         generate ─▶ __end__
 
 
-<p align="center">
-  <img src="/Users/kalyanpichumani/Desktop/Code experiments/Langgraph/correctiveRag.png" width="500"/>
-</p>
+corrective_rag_workflow.png
+
 
 
